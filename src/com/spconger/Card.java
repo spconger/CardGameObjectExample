@@ -54,7 +54,7 @@ public class Card {
 		if (getCardNumber()==12) {
 			name = "Queen of " + getSuit();
 		}
-		if (getCardNumber()==12) {
+		if (getCardNumber()==13) {
 			name = "King of " + getSuit();
 		}
 		
